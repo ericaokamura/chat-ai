@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "descricao": "Donut Choco",
+      "quantidadeAtual": 10,
+      "quantidadeIdeal": 30
+    },
+    {
+      "id": 2,
+      "descricao": "Matcha Pó",
+      "quantidadeAtual": 10,
+      "quantidadeIdeal": 20
+    },
+    {
+      "id": 3,
+      "descricao": "Pão de Queijo",
+      "quantidadeAtual": 20,
+      "quantidadeIdeal": 15
+    },
+    {
+      "id": 4,
+      "descricao": "Leite",
+      "quantidadeAtual": 10,
+      "quantidadeIdeal": 20
+    },
+    {
+      "id": 5,
+      "descricao": "Chantilly",
+      "quantidadeAtual": 3,
+      "quantidadeIdeal": 2
+    }
+]
+

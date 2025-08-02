@@ -14,19 +14,19 @@
     {
       "id": 3,
       "descricao": "Pão de Queijo",
-      "quantidadeAtual": 20,
+      "quantidadeAtual": 10,
       "quantidadeIdeal": 15
     },
     {
       "id": 4,
       "descricao": "Leite",
-      "quantidadeAtual": 10,
+      "quantidadeAtual": 15,
       "quantidadeIdeal": 20
     },
     {
       "id": 5,
       "descricao": "Chantilly",
-      "quantidadeAtual": 3,
+      "quantidadeAtual": 1,
       "quantidadeIdeal": 2
     }
 ]

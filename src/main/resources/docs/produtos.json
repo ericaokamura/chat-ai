@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "Produto A",
+    "descricao": "Descricao Produto A",
+    "tags": "Vegano",
+    "valorUnitario": 30.0
+  },
+  {
+    "id": 2,
+    "nome": "Produto B",
+    "descricao": "Descricao Produto B",
+    "tags": "Vegetariano",
+    "valorUnitario": 20.0
+  },
+  {
+    "id": 3,
+    "nome": "Produto C",
+    "descricao": "Descricao Produto C",
+    "tags": "Sem Glúten",
+    "valorUnitario": 25.0
+  }
+]

@@ -2,7 +2,7 @@
 
 - Java 24
 - Spring Framework
-- Lombok
+- Banco de dados MySQL
 
 
 ## Como rodar a aplicação
